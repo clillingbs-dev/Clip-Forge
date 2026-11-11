@@ -1,0 +1,8 @@
+{
+  "name": "OpusClip AI - Viral Video & Podcast Clipper",
+  "description": "Transform long YouTube videos and podcasts into viral TikTok, Instagram Reels, and YouTube Shorts with AI virality scoring, dynamic face-centered 9:16 reframing, and animated karaoke captions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
